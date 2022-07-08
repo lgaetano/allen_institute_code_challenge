@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/allen_institute_code_challenge/static/css/main.9def8c4a.css",
+    "main.js": "/allen_institute_code_challenge/static/js/main.15f3113e.js",
+    "static/js/787.d1a0c77f.chunk.js": "/allen_institute_code_challenge/static/js/787.d1a0c77f.chunk.js",
+    "index.html": "/allen_institute_code_challenge/index.html",
+    "main.9def8c4a.css.map": "/allen_institute_code_challenge/static/css/main.9def8c4a.css.map",
+    "main.15f3113e.js.map": "/allen_institute_code_challenge/static/js/main.15f3113e.js.map",
+    "787.d1a0c77f.chunk.js.map": "/allen_institute_code_challenge/static/js/787.d1a0c77f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9def8c4a.css",
+    "static/js/main.15f3113e.js"
+  ]
+}
