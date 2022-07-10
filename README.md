@@ -7,8 +7,9 @@ I was intrigued by the question -- What is the most prominently used programming
 Won't this be a fun twist on a code challenge to determine the language with which I, arguably, should code this challenge itself!  
 
 ## The Result  
-__https://lgaetano.github.io/allen_institute_code_challenge/__   
-Python is my main language of comfort and I have some experience with the Pandas library. With this in mind, I decided to investigate the difficulty of pulling, scrubbing and visualizing data using a language that might not prove as intuitive, JavaScript. What fun! The irony, of course, was that my investigations showed that most of the public repos on the Allen Institute GitHub page utilize Python or 'Jupyter Notebooks', which are a well-known playground for Python & Pandas code. 
+Python is my main language of comfort and I have some experience with the Pandas library. With this in mind, I decided to investigate the difficulty of pulling, scrubbing and visualizing data using a language that might not prove as intuitive, JavaScript. What fun! The irony, of course, was that my investigations showed that most of the public repos on the Allen Institute GitHub page utilize Python or 'Jupyter Notebooks', which are a well-known playground for Python & Pandas code.  
+
+View the [visualization](https://lgaetano.github.io/allen_institute_code_challenge/)!   
 
 ## The Tech Stack  
 [Github API](https://docs.github.com/en/rest)  
